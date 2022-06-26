@@ -8,6 +8,8 @@
       <change beforePath="$PROJECT_DIR$/../MobileApplicationProject/mobile/templates/mobile/Cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MobileApplicationProject/mobile/templates/mobile/Cart.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MobileApplicationProject/mobile/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../MobileApplicationProject/mobile/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MobileApplicationProject/mobile/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../MobileApplicationProject/mobile/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../MobileApplicationProject" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1sRksG8X1gcIxiVPk3SVCTP2Jlg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -26,7 +28,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BillingProject" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
